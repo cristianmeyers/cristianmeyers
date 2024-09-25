@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Cristian Meyers</h1>
-<h3 align="center">Je cherche une alternance informatique dans le Finistère</h3>
+<h3 align="center">Technicien Helpdesk en alternance</h3>
 
 - 🔭 Je travail actuellement sur une **Calculatrice scientifique en Javascript**
 
