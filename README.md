@@ -1,20 +1,80 @@
-<h1 align="center">Salut 👋, Je m'appelle Cristian</h1>
-<h3 align="center">Technicien Informatique En ALternance</h3>
+# 💻 Cristian Meyers — Technicien Informatique & Futur Ingénieur en Cybersécurité
 
-- 🔭 Je travail actuellement sur un **Bot Telegram**
+<!-- ![Banner](https://user-images.githubusercontent.com/00000000/banner.png)  -->
+*Passionné par les infrastructures, réseaux et la cybersécurité, avec une solide expérience en déploiement, administration et développement.*
 
-- 🌱 J'apprend en ce moment la **microservice architecture**
+---
 
-- 📫 Contacte-moi via **www.linkedin.com/in/cristianmeyers**
+## 🧑‍🎓 Profil & Formation
 
-- 📄 Mon parcours et experiences [https://cristianmeyers.github.io/portfolio/](https://cristianmeyers.github.io/portfolio/)
+**Nom :** Cristian Meyers  
+**Profil :** Technicien Informatique en alternance | Futur ingénieur ou master en cybersécurité  
 
-- ⚡ Fun fact **Il n'y a pas de H a Cristian !!!!**
+- 🎓 Bac STI2D  
+- 🎓 BTS SIO - spécialité SISR (2ème année, alternance)  
+- 👨‍💻 Technicien réseaux (IUT Brest Morlaix)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cristianmeyers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristianmeyers" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🛠 Expérience et Compétences
+
+### 1️⃣ Scripting & Développement
+- Bash & Python (scripts d’automatisation)  
+- HTML, CSS, JavaScript, Node.js  
+- C (bases)  
+- React, SASS  
+- Git / GitHub  
+
+### 2️⃣ Infrastructure & Réseaux
+- Conception & simulation (Packet Tracer, Cisco)  
+- Déploiement Linux & scripts PXE  
+- Docker, Virtualisation (Proxmox, VirtualBox)  
+- Bases de données : MySQL, MariaDB, PostgreSQL  
+- Gestion de parc informatique (OPSI / GLPI)  
+
+### 3️⃣ Cybersécurité / Pentesting
+- Reconnaissance, scanning, sniffing  
+- Outils : Nmap, Wireshark, Aircrack-ng  
+- Labs & CTF : TryHackMe, Root-Me  
+- Scripts d’audit et automatisation sécurité  
+
+### 4️⃣ Méthodologies & Bonnes Pratiques
+- Déploiement automatisé  
+- Versioning (Git)  
+- Documentation structurée  
+- Portfolio et projets visuels  
+
+---
+
+## 🌎 Langues
+- Français : natif  
+- Español : Natif  
+- English : B2/C1 (TOEIC à venir)  
+
+---
+
+## 🚀 Projets en Avant
+- 🤖 Bot Telegram d’automatisation  
+- 🐧 Scripts Linux pour configuration rapide  
+- 🔐 Lab virtuel pour formation Pentest  
+- 🌐 Portfolio web personnel  
+
+---
+
+## 🎯 Objectifs
+- Poursuivre jusqu’à Bac+5 en alternance  
+- Devenir pentester ou expert en cybersécurité  
+- Constituer un portfolio complet de projets techniques et cyber  
+
+---
+
+## 📊 Stats GitHub
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianmeyers&show_icons=true&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianmeyers&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Me Contacter
+- 💼 LinkedIn : [Linkedin.com/in/cristianmeyers](https://linkedin.com/in/cristianmeyers)
+- 🌐 Site Web : [Portfolio Web](https://cristianmeyers.github.io/portfolio/) 
