@@ -24,7 +24,7 @@
 - HTML, CSS, JavaScript, Node.js  
 - C (bases)  
 - React, SASS  
-- Git / GitHub  
+- Git / GitHub / Gitlab
 
 ### 💻 Scripting & Développement (Badges)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
