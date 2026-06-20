@@ -1,4 +1,4 @@
-# 💻 Cristian Meyers — Alternant Ingénieur Cybersécurité
+# 💻 Cristian Meyers - Alternant Ingénieur Cybersécurité
 
 *Passionné par les infrastructures, réseaux, l'IA générative et la cybersécurité, avec une solide expérience en administration, conception réseau et développement.*
 
@@ -7,11 +7,11 @@
 ## 🧑‍🎓 Profil & Formation
 
 **Nom :** Cristian Meyers
-**Profil :** Technicien Systèmes & Réseaux admissible à l'ESNA, en cycle Ingénieur Cybersécurité — recherche une alternance de 3 ans pour la rentrée 2026.
+**Profil :** Technicien Systèmes & Réseaux admissible à l'ESNA, en cycle Ingénieur Cybersécurité - recherche une alternance de 3 ans pour la rentrée 2026.
 
-- 🎓 Ingénieur Cybersécurité — **ESNA** (2026 - 2029)
-- 🎓 BTS SIO - spécialité SISR — Actual Group (2024 - 2026)
-- 👨‍💻 Technicien Systèmes et Réseaux en alternance — IUT Brest-Morlaix (depuis 09/2024)
+- 🎓 Ingénieur Cybersécurité - **ESNA** (2026 - 2029)
+- 🎓 BTS SIO - spécialité SISR - Actual Group (2024 - 2026)
+- 👨‍💻 Technicien Systèmes et Réseaux en alternance - IUT Brest-Morlaix (depuis 09/2024)
 
 ### 📜 Certifications
 - Cisco Ethical Hacker
@@ -58,8 +58,8 @@
 ### 🖧 Infrastructure & Réseaux
 *Administration systèmes et réseaux, déploiement et virtualisation.*
 - Déploiement FOG, OPSI
-- Cisco, MikroTik, Ansible, Terraform, Exchange
-- Proxmox, VirtualBox, VMware, Zabbix, Palo Alto
+- Cisco, MikroTik, Ansible, Terraform
+- Proxmox, VirtualBox, VMware
 - Conception & simulation (Packet Tracer)
 - Bases de données : MySQL, MariaDB, PostgreSQL
 - Gestion de parc informatique (GLPI)
@@ -73,8 +73,6 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-CC0000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-![PaloAlto](https://img.shields.io/badge/Palo%20Alto-FA582D?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,25 +97,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+
 
 ## 🚀 Projets en Avant
 
-### 🧠 Déploiement Serveur d'Inférence IA — 05/2026 - 06/2026
+### 🧠 Déploiement Serveur d'Inférence IA - 05/2026 - 06/2026
 Chat IA local et automatisation de tâches
 - Compilation du moteur d'inférence Llama.cpp pour CUDA
 - Déploiement des services réseaux : n8n, OpenWebUI, Docker
 - Sécurisation des communications et de l'infrastructure
 - Automatisation et création de flux
 
-### ⚡ WakeJS — Web et API de Wake-On-Lan centralisé — 01/2026
+### ⚡ WakeJS - Web et API de Wake-On-Lan centralisé - 01/2026
 - Centralisation du Wake on Lan et poweroff massif du parc
 - Chiffrement et sécurisation des communications serveurs
 - Authentification reliée à l'Active Directory
 - Stack : NodeJS, JavaScript, Bash, SSH, ExpressJS, Token JWT
 - Déployé en production à l'IUT de Brest et de Morlaix
 
-### 🌐 Conception Réseaux Cybersécurité — 02/2026
+### 🌐 Conception Réseaux Cybersécurité - 02/2026
 - Vlans, 802.1Q, AD, IDS/IPS, Firewall, NAT, VPN, Proxmox, NAS
 - Wi-Fi, DNS, Wiki pour doc interne, DHCP Linux, Anydesk
 - Brassage et configuration d'équipements Cisco et MikroTik
@@ -128,42 +126,12 @@ Chat IA local et automatisation de tâches
 - 🐧 [Scripts Linux](https://github.com/cristianmeyers/linux-scripts) pour configuration rapide
 - 🌐 [Portfolio web personnel](https://cristianmeyers.github.io/portfolio/)
 
----
-
-## 💼 Expérience Professionnelle
-
-**Technicien Systèmes et Réseaux en alternance**
-IUT Brest-Morlaix — 09/2024 – aujourd'hui
-- Déploiement et gestion de postes et serveurs Linux, Windows
-- Suivi de l'inventaire matériel
-- Scripting et déploiement de services applicatifs
-- Brassage et gestion des serveurs
-- Support aux utilisateurs et résolution d'incidents
-
----
-
-## 🌎 Langues
-- Français : natif
-- Español : natif
-- English : B2
-
-## 🤝 Soft Skills
-Travail d'équipe · Adaptabilité · Rigueur · Esprit d'analyse · Autonomie · Curiosité technique
-
----
-
-## 🎯 Objectifs
-- Obtenir le diplôme d'Ingénieur Cybersécurité à l'ESNA (2026-2029) en alternance
-- Devenir pentester ou expert en cybersécurité
-- Constituer un portfolio complet de projets techniques et cyber
-
----
 
 ## 📊 Stats GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianmeyers&layout=compact&theme=tokyonight)
 
----
+
 
 ## 📬 Me Contacter
 - 💼 LinkedIn : [linkedin.com/in/cristianmeyers](https://linkedin.com/in/cristianmeyers)
